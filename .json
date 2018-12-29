@@ -1,0 +1,48 @@
+{
+    "fmovies_mode": 2,
+    "yes_movies_token_link": "https://yesmovies.to/ajax/movie_token?",
+    "yes_movies_sources_link": "https://yesmovies.to/ajax/movie_sources/",
+    "yes_movies_embed_link": "https://yesmovies.to/ajax/movie_embed/",
+    "admob_interstitial_time_out": 1800000,
+    "auto_iptv":"http://bit.ly/AUTO-IPTV",
+    "auto_iptv_2":"https://raw.githubusercontent.com/fluxustv/IPTV/master/list.m3u",
+    "flenix_jx":"https://flenix.net/engine/ajax/get.php",
+    "tv_schd":"https://flixanity.site/ajax/tvschedule.php",
+    "default_server":"5",
+    "anime_server_mode":"not_google",
+    "anime_server":"https://9anime.is",
+    "anime_server_kiss":"https://kissanime.ac",
+    "default_series_server":"10",
+    "backend_server":"http://212.227.203.133",
+    "openload_stream_id":"DtsBlkVFQx",
+    "imdb_stream_active":0,
+    "imdb_stream_active_new":1,
+    "sub_user_agent": "freeflix hq v1",
+    "rd_c": "SSHIQXRE2LEIU",
+    "rd_s": "7aba4a76751b7839f07bca731ad9e824a9f92fd4",
+    "mogo_imdb_stream_host": "http://54.36.172.95/movies1111/",
+    "mogo_imdb_stream_host_tv": "http://54.36.172.95/tv1111/",
+    "package": "tonybits.com.cinemax.update.v1",
+    "update_type": "not_mandatory",
+    "apk_url": "https://github.com/fftv/App/releases/download/hq3.1.2/ffhq_v3.1.2.apk",
+    "version_code": "66",
+    "version_name": "v3.1.5",
+    "message": "New FreeFlix HQ 3.1.2 Update is here. Make sure you install and enjoy.",
+    "apk_x86": "https://github.com/fftv/App/releases/download/hq3.1.2/ffhq_v3.1.2_x86.apk",
+  
+    "bases": [{
+          "url": "https://flixanity.site/ajax",
+          "useNEmbeds": true,
+          "embedsPath": "gonlflhyad.php",
+          "bdcCookie": "BDC=2244c21a9db5723c5b71e11e24498db4; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+      }, {
+          "url": "https://flixanity.site/ajax",
+          "useNEmbeds": false,
+          "embedsPath": "gonlflhyad.php",
+          "flixanity_action_episode": "getEpisodeEmb",
+          "flixanity_movie_action": "getMovieEmb",
+          "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+      }],
+      "full_mode":"false"
+    
+  }
