@@ -1,5 +1,4 @@
-
-    {
+{
     "fmovies_mode": 2,
     "yes_movies_token_link": "https://yesmovies.to/ajax/movie_token?",
     "yes_movies_sources_link": "https://yesmovies.to/ajax/movie_sources/",
@@ -19,8 +18,8 @@
     "imdb_stream_active":0,
     "imdb_stream_active_new":1,
     "sub_user_agent": "freeflix hq v1",
-    "rd_c": "X245A4XAIBGVM",
-    "rd_s": "WZJ3SGVKADGSPZBWEDPUH6T5SJY2H5Q54H6X43ZOQMMVVMNFGOVA",
+    "rd_c": "SSHIQXRE2LEIU",
+    "rd_s": "7aba4a76751b7839f07bca731ad9e824a9f92fd4",
     "mogo_imdb_stream_host": "http://54.36.172.95/movies1111/",
     "mogo_imdb_stream_host_tv": "http://54.36.172.95/tv1111/",
     "package": "tonybits.com.cinemax.update.v1",
