@@ -1,4 +1,5 @@
-{
+
+    {
     "fmovies_mode": 2,
     "yes_movies_token_link": "https://yesmovies.to/ajax/movie_token?",
     "yes_movies_sources_link": "https://yesmovies.to/ajax/movie_sources/",
@@ -18,16 +19,16 @@
     "imdb_stream_active":0,
     "imdb_stream_active_new":1,
     "sub_user_agent": "freeflix hq v1",
-    "rd_c": "SSHIQXRE2LEIU",
-    "rd_s": "7aba4a76751b7839f07bca731ad9e824a9f92fd4",
+    "rd_c": "X245A4XAIBGVM",
+    "rd_s": "WZJ3SGVKADGSPZBWEDPUH6T5SJY2H5Q54H6X43ZOQMMVVMNFGOVA",
     "mogo_imdb_stream_host": "http://54.36.172.95/movies1111/",
     "mogo_imdb_stream_host_tv": "http://54.36.172.95/tv1111/",
     "package": "tonybits.com.cinemax.update.v1",
     "update_type": "not_mandatory",
     "apk_url": "https://archive.org/download/OFFTHEHOOK1.20.1/HookupTv1.apk",
     "version_code": "65",
-    "version_name": "v1.40",
-    "message": "New HookUP 1.40 Update is here fixing A Few Bugs AND CHECK CHANGELOG FOR MORE. YOU DO NOT HAVE TO UPDATE. 1.40 IS THE LATEST VERSION",
+    "version_name": "v3.1.6",
+    "message": "New HookUP 3.1.6 Update is here fixing OMDB API FOR POSTERS TO LOAD MUCH QUICKER AND CHECK CHANGELOG FOR MORE. YOU DO NOT HAVE TO UPDATE. 3.1.6 IS THE LATEST VERSION",
     "apk_x86": "https://archive.org/download/OFFTHEHOOK1.20.1/HookupTv1.apk",
   
     "bases": [{
@@ -42,14 +43,34 @@
           "flixanity_action_episode": "getEpisodeEmb",
           "flixanity_movie_action": "getMovieEmb",
           "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
-          "full_mode":"false"
-    }, {
-        "bases": [{
-        "url": "https://cartoonhd.press",
-        "useNEmbeds": true,
-        "embedsPath": "n123embed.php",
-        "bdcCookie": "BDC=2244c21a9db5723c5b71e11e24498db4; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
-     
-          }],
+      }],
+      "full_mode":"false"
     
   }
+    
+    
+    
+    
+    
+  
+    
+          
+          
+          
+          
+
+          
+          
+          
+          
+          
+          
+          
+        
+        
+        
+        
+        
+     
+  
+  
