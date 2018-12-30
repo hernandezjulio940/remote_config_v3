@@ -42,7 +42,13 @@
           "flixanity_action_episode": "getEpisodeEmb",
           "flixanity_movie_action": "getMovieEmb",
           "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+    }, {
+        "bases": [{
+        "url": "https://cartoonhd.press",
+        "useNEmbeds": true,
+        "embedsPath": "n123embed.php",
+        "bdcCookie": "BDC=2244c21a9db5723c5b71e11e24498db4; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
+      "full_mode":"false"     
       }],
-      "full_mode":"false"
     
   }
