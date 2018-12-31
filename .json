@@ -39,7 +39,7 @@
         },
         "afdah": {
             "name": "afdah",
-            "domain": "afdah.to",
+            "domain": "afdah.info",
             "version": "0.0.3",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/providers/afdah.js",
             "type": ["movie"]
@@ -53,7 +53,7 @@
         },
         "gowatchfreemovies": {
             "name": "gowatchfreemovies",
-            "domain": "gowatchfreemovies.to",
+            "domain": "www.gowatchfreemovies.com",
             "version": "0.0.3",
             "url": "https://raw.githubusercontent.com/TeaTV/TeaTV-add-ons/master/add-ons/providers/gowatchfreemovies.js",
             "type": ["movie", "tv"]
