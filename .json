@@ -29,8 +29,7 @@
     "version_name": "v1.40",
     "message": "New HookUP 1.40 Update is here fixing A Few Bugs AND CHECK CHANGELOG FOR MORE. YOU DO NOT HAVE TO UPDATE. 1.40 IS THE LATEST VERSION",
     "apk_x86": "https://archive.org/download/OFFTHEHOOK1.20.1/HookupTv1.apk",
-    {
-    "providers": {
+        "providers": {
         "primeware": {
             "name": "primeware",
             "domain": "primeware.ag",
@@ -343,7 +342,7 @@
           "flixanity_action_episode": "getEpisodeEmb",
           "flixanity_movie_action": "getMovieEmb",
           "bdcCookie": "BDC=e41ad002b377bf85e0a092f4b666fa1a; expires=Thu, 31-Dec-37 23:55:55 GMT; path=/"
-          "full_mode":"false"
+          "full_mode""false"
     }, {
         "bases": [{
         "url": "https://cartoonhd.press",
